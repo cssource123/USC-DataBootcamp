@@ -1,0 +1,71 @@
+body{
+	background-color: #EDEDED;
+}
+.navbar{
+	max-height: 57px;
+}
+.navigation .navbar-brand{
+	color: white;
+	margin-left: 30px;
+	padding: inherit;
+	font-weight: bold;
+	background-color: #0BADA6;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+	background-color: white;
+	font-size: 15px;
+}
+.active, .dropdown-menu .dropdown-item:active a:hover{
+	background-color:#E7E7E7!important;
+}
+.dropdown-item{
+	color:#6D8092 !important;
+}
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown-menu .dropdown-item:hover{
+	background-color:#E7E7E7 !important;
+}
+a{
+	color: #6D8092;
+	font-size: 15px;
+}
+.nav-link:hover{
+	background-color:#E7E7E7 !important;
+}
+.navbar-brand:hover{
+	color: rgb(175,175,175) !important;
+}
+img{
+	width:100% !important;
+	height:100% !important;
+}
+.active, .panel:hover{
+	border-color:#0BADA6;
+	border-style:solid;
+}
+.visualization{
+	width:50% !important;
+	height:50% !important;
+}
+.title{
+	color:#0BADA6;
+	font-family: Georgia, 'Times New Roman', Times,serif;
+	font-weight:bolder;
+	padding-top:25px;
+}
+p{
+	color:#6D8092;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size: 17px;
+}
+.box {
+	margin-top:60px;
+	margin-bottom: 62px;
+	padding: 10px 20px 15px;
+	color:black;
+	background-color:white;
+}
+.table{
+	font-size: 15px;
+	border-top-color:white !important;
+}
