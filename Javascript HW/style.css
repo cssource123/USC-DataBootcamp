@@ -1,0 +1,11 @@
+.col-md-12 h1 {
+    color: rgb(63, 184, 184)
+}
+
+.table-striped th{
+    color: rgb(63, 184, 184)
+}
+
+#form-group {
+    display: inline;
+}
